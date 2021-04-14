@@ -21,6 +21,7 @@ _This page was last updated on April 13th, 2021._
 
 # Franklin-McKinley School Project
 - After a [letter from the property owner](https://static-www.commhill.org/pdf/CommunicationHillLetterToFMSD.pdf) was sent, a [resolution to start](https://static-www.commhill.org/pdf/Resolution2021-12-IntentToConstructSchoolOnDonatedProperty.pdf) the process of formally investigating and constructing a school passed on April 13th, 2021.
+- The proposed [location of the school site](https://www.openstreetmap.org/way/809642786#map=18/37.28628/-121.85585) is close to the proposed town center and proposed recreational field.
 
 # California High Speed Rail
 
