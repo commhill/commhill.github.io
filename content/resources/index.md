@@ -53,3 +53,6 @@ Interested in cleaning up litter on the trail or in a park? Here's a few tips:
   - A box cutter (Jon's recommendation can be found [here](https://www.homedepot.com/p/Milwaukee-FASTBACK-Folding-Utility-Knife-with-Blade-Storage-Compact-Folding-Utility-Knife-with-2-General-Purpose-Blades-2-Pack-48-22-1503/309350823)).
 - If you pickup litter along the trail, leaving your bags of litter (securely tied of course) next to the public trash cans seems to result in the bags being removed by the city without issue. However, you may wish to contact the city for an official recommendation on where to leave bags of litter you pick up.
   - Please [create an issue on github](https://github.com/typeobject/commhill-org/issues) if you know of a better process to use for disposal of bags of litter.
+
+# Government Contacts
+Communications Hill is located in District 7 and is currently represented by [Maya Esparza](https://www.sanjoseca.gov/your-government/departments-offices/city-council/district-7/maya-esparza-bio). A list of current members on District 7 can be found [here](https://www.sanjoseca.gov/your-government/departments-offices/city-council/district-7/district-7-staff). 
