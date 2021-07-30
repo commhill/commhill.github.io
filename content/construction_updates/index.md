@@ -39,9 +39,10 @@ _This page was last updated on April 13th, 2021._
 - More information can be found in the [specific plan under the heading "ADP Improvement 8"](https://static-www.commhill.org/pdf/CommunicationsHillSpecific.pdf).
 - The design and construction of the pedestrian bridge is tied into the phasing for the KB Home residential construction. Design work for the bridge is planned in phase 3, while construction is planned for phase 4 (see construction schedule notes for the KB Home residential construction above).
 
-# Capitol Expy Repair and Rehab
+# Capitol VTA Light Rail Station Transit Oriented Development
 
-- A project is underway to repave a large portion of Capitol Expy, as well as to repair several sidewalks. See the [county website](https://www.sccgov.org/sites/opa/newsroom/Pages/capitolexpresswayproject2020.aspx) for more details.
+- Redevelopment of the Park & Ride lot at the Capital VTA Light Rail station is still in the early planning phases at the time of this writing.
+- You can sign up for email updates and check the latest status on [the VTA's website for the project](https://www.vta.org/capitoldevelopment).
 
 # Communications Hill Blvd. Bridge (and Curtner Ave Improvements)
 
@@ -57,7 +58,3 @@ _This page was last updated on April 13th, 2021._
 
 - A project has been proposed for changes to the Granite Rock site. See [the city's website](https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/active-eirs/graniterock-capitol-modernization-project) for details.
 - The NOP for the Draft EIR can be [found here](https://static-www.commhill.org/pdf/GraniterockProjectNOPPDC19.pdf).
-
-# Holiday Inn at 2660 Monterey Rd.
-
-- Just outside the boundary to Communications Hill, a significant expansion to a Holiday Inn is in progress at 2660 Monterey Rd. Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "2660 MONTEREY" if you're interested in detailed information.
