@@ -14,7 +14,6 @@ _This page was last updated on July 30th, 2021._
 - The Village Center (retail) [will be located here](https://www.openstreetmap.org/way/833395521). For detailed plans for the Village Center [see this document](https://static-www.commhill.org/pdf/FilePDA1403505VillageCenter.pdf).
 - For details on all proposed public parks, [see this document](https://static-www.commhill.org/pdf/commhillParklandFacilities.pdf).
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
-- Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "0 CURTNER" if you're interested in detailed information on (almost) daily construction activity.
 - For detailed air quality data, please see [the site maintained by KB Home](https://www.kbhome.com/communicationshill).
 - For details on the upcoming grading project for phases 3 and 4, please see the [plan submitted to the city](https://static-www.commhill.org/pdf/45042487.pdf).
 - For a basic construction schedule, see page 34 of [this document](https://static-www.commhill.org/pdf/commhillAppendixEAirQuality.pdf).
