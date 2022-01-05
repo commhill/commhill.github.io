@@ -3,7 +3,7 @@ title = "Communications Hill"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "UA-132850368-1" # Enable Google Analytics by entering your tracking id
 
 [Params]
   description = "Communications Hill Neighborhood Association in San Jose, California" # Site description. Used in meta description
