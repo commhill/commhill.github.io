@@ -8,7 +8,7 @@ The Communications Hill area has several active construction projects. This page
 
 If you would like to [propose or update content](https://github.com/commhill/commhill-org/issues/new) on this page, please keep in mind the [geographic boundary to Communications Hill](https://static-www.commhill.org/pdf/CommHill_neighprofilesPDF15017.pdf). Please only include construction projects within or bordering the neighborhood.
 
-_This page was last updated on July 30th, 2021._
+_This page was last updated on March 2nd, 2022._
 
 # KB Home's Residential Construction
 - The Village Center (retail) [will be located here](https://www.openstreetmap.org/way/833395521). For detailed plans for the Village Center [see this document](https://static-www.commhill.org/pdf/FilePDA1403505VillageCenter.pdf).
@@ -21,6 +21,7 @@ _This page was last updated on July 30th, 2021._
 # Franklin-McKinley School Project
 - After a [letter from the property owner](https://static-www.commhill.org/pdf/CommunicationHillLetterToFMSD.pdf) was sent, a [resolution to start](https://static-www.commhill.org/pdf/Resolution2021-12-IntentToConstructSchoolOnDonatedProperty.pdf) the process of formally investigating and constructing a school passed on April 13th, 2021.
 - The proposed [location of the school site](https://www.openstreetmap.org/way/809642786#map=18/37.28628/-121.85585) is close to the proposed town center and proposed recreational field.
+- A [status update](https://static-www.commhill.org/pdf/fmsd-CommunicationsHillUpdate1-25-22.pdf) was presented on 2022-01-25.
 
 # California High Speed Rail
 
