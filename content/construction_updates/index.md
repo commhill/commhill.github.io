@@ -21,7 +21,7 @@ _This page was last updated on March 2nd, 2022._
 # Franklin-McKinley School Project
 - After a [letter from the property owner](https://static-www.commhill.org/pdf/CommunicationHillLetterToFMSD.pdf) was sent, a [resolution to start](https://static-www.commhill.org/pdf/Resolution2021-12-IntentToConstructSchoolOnDonatedProperty.pdf) the process of formally investigating and constructing a school passed on April 13th, 2021.
 - The proposed [location of the school site](https://www.openstreetmap.org/way/809642786#map=18/37.28628/-121.85585) is close to the proposed town center and proposed recreational field.
-- A [status update](https://static-www.commhill.org/pdf/fmsd-CommunicationsHillUpdate1-25-22.pdf) was presented on 2022-01-25.
+- A [status update](https://static-www.commhill.org/pdf/fmsd-CommunicationsHillUpdate1-25-22.pdf) was presented on 2022-01-25. The [video of the meeting](https://youtu.be/vSaSUzd4qFE?t=4552) has also been posted on youtube.
 
 # California High Speed Rail
 
