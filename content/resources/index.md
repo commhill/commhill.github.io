@@ -35,7 +35,7 @@ Below is a quick guide of what you can report to 311 as well as where to report 
 |  In a Public Park | [San Jose Parks Email](mailto:park.concerns@sanjoseca.gov) |  408-793-5510 |
 |  Streetlight Outage | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 | 
 |  Homeless Concerns |  [Homeless Concerns Email](mailto:homelessconcerns@sanjoseca.gov) | 408-975-1400  |
-|  Abandonded Vehicle  | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 |
+|  Abandoned Vehicle | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 |
 |  Pothole | [311 Website](https://311.sanjoseca.gov) | 408-535-3500  |
 |  Near freeways, Highway & Ramps | [Caltrans Website](https://csr.dot.ca.gov/) |
 |  Light Rail (VTA) | [iOS](https://itunes.apple.com/us/app/vtalerts/id633600618?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.elerts.vta) |  |
