@@ -33,14 +33,14 @@ Below is a quick guide of what you can report to 311 as well as where to report 
 |  Graffiti | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 |
 |  Illegal Dumping | [311 Website](https://311.sanjoseca.gov) | 408-535-3500  |
 |  Overflowing Public Trash Can | [Parks Department Contact Form](https://www.sanjoseca.gov/Home/Components/FormBuilder/FormBuilder/1a53b42063784f9f9ece52f61bb30ab6/3037?fbclid=IwAR0AKO42bP9rh7X382Y_LpbSTicCSUZ9JLojzlFB4RhmDEj7MthrfF1qaIM) | 408-535-3500  |
-|  Pothole | [311 Website](https://311.sanjoseca.gov) | 408-535-3500  |
+|  In a Public Park | [San Hose Parks Email](mailto:park.concerns@sanjoseca.gov) |  408-793-5510 |
 |  Streetlight Outage | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 | 
 |  Homeless Concerns |  [Homeless Concerns Email](mailto:homelessconcerns@sanjoseca.gov) | 408-975-1400  |
-|  Southern (Union Pacific) Train Tracks | [Union Pacific Email](mailto:rmcc_in@up.com) | 888-877-7267 |
-|  Northern (Joint Powers Board) Train Tracks | [Caltrain Website](https://www.caltrain.com/about/contact.html) | 800-660-4287 |
+|  Pothole | [311 Website](https://311.sanjoseca.gov) | 408-535-3500  |
 |  Near freeways, Highway & Ramps | [Caltrans Website](https://csr.dot.ca.gov/) |
-|  In a Public Park | [San Hose Parks Email](mailto:park.concerns@sanjoseca.gov) |  408-793-5510 |
-|  VTA (Light Rail) | [iOS](https://itunes.apple.com/us/app/vtalerts/id633600618?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.elerts.vta) |  |
+|  Light Rail (VTA) | [iOS](https://itunes.apple.com/us/app/vtalerts/id633600618?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.elerts.vta) |  |
+|  Southern (Union Pacific) Commuter Rail | [Union Pacific Email](mailto:rmcc_in@up.com) | 888-877-7267 |
+|  Northern (Joint Powers Board) Commuter Rail | [Caltrain Website](https://www.caltrain.com/about/contact.html) | 800-660-4287 |
 |  Other issues not listed | [Web](https://www.sanjoseca.gov/residents/report-an-issue) | 311 or 408-277-8900 |
 {{</table>}}
 
