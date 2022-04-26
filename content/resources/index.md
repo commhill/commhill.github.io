@@ -22,23 +22,24 @@ Do you have junk (e.g. an old mattress, worn out car tires, a broken refrigerato
 # Report Issues
 A majority of issues can be reported using the [San Jose 311 website](https://311.sanjoseca.gov).
 
-San Jose 311 also has an iOS and Android app (see the links in the table below) that can be used to report issues. Below is a quick guide of what you can report on the 311 app and where to report various other issues that aren't handled by San Jose 311.
+Below is a quick guide of what you can report to 311 as well as where to report various other issues that aren't handled by San Jose 311.
 
 {{<table table-class="f6 w-100 mw8 center"
          th-class="fw6 bb b--black-20 tl pb3 pr3"
          td-class="pv3 pr3 bb b--black-20">}}
 | Type | How to Report | Phone |
 |---|---|---|
-| Abandon Vehicle  | [Web](https://311.sanjoseca.gov) |  408-535-3500 |
-|  Graffiti | [Web](https://311.sanjoseca.gov) |  408-535-3500 |
-|  Illegal Dumping | [Web](https://311.sanjoseca.gov) | 408-535-3500  |
-|  Overflowing Public Trash Can | [Web](https://www.sanjoseca.gov/Home/Components/FormBuilder/FormBuilder/1a53b42063784f9f9ece52f61bb30ab6/3037?fbclid=IwAR0AKO42bP9rh7X382Y_LpbSTicCSUZ9JLojzlFB4RhmDEj7MthrfF1qaIM) | 408-535-3500  |
-|  Pothole | [Web](https://311.sanjoseca.gov) | 408-535-3500  |
-|  Streetlight Outage | [Web](https://311.sanjoseca.gov) |  408-535-3500 | 
-|  Homeless Concerns |  [Email](mailto:homelessconcerns@sanjoseca.gov) | 408-975-1400  |
-|  Along Train Tracks | [Email](mailto:rmcc_in@up.com) | 888-877-7267 |
-|  Near freeways, Highway & Ramps | [Web](https://csr.dot.ca.gov/) |
-|  In a Public Park | [Email](mailto:park.concerns@sanjoseca.gov) |  408-793-5510 |
+| Abandon Vehicle  | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 |
+|  Graffiti | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 |
+|  Illegal Dumping | [311 Website](https://311.sanjoseca.gov) | 408-535-3500  |
+|  Overflowing Public Trash Can | [Parks Department Contact Form](https://www.sanjoseca.gov/Home/Components/FormBuilder/FormBuilder/1a53b42063784f9f9ece52f61bb30ab6/3037?fbclid=IwAR0AKO42bP9rh7X382Y_LpbSTicCSUZ9JLojzlFB4RhmDEj7MthrfF1qaIM) | 408-535-3500  |
+|  Pothole | [311 Website](https://311.sanjoseca.gov) | 408-535-3500  |
+|  Streetlight Outage | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 | 
+|  Homeless Concerns |  [Homeless Concerns Email](mailto:homelessconcerns@sanjoseca.gov) | 408-975-1400  |
+|  Southern (Union Pacific) Train Tracks | [Union Pacific Email](mailto:rmcc_in@up.com) | 888-877-7267 |
+|  Northern (Joint Powers Board) Train Tracks | [Caltrain Website](https://www.caltrain.com/about/contact.html) | 800-660-4287 |
+|  Near freeways, Highway & Ramps | [Caltrans Website](https://csr.dot.ca.gov/) |
+|  In a Public Park | [San Hose Parks Email](mailto:park.concerns@sanjoseca.gov) |  408-793-5510 |
 |  VTA (Light Rail) | [iOS](https://itunes.apple.com/us/app/vtalerts/id633600618?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.elerts.vta) |  |
 |  Other issues not listed | [Web](https://www.sanjoseca.gov/residents/report-an-issue) | 311 or 408-277-8900 |
 {{</table>}}
