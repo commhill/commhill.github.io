@@ -29,13 +29,13 @@ Below is a quick guide of what you can report to 311 as well as where to report 
          td-class="pv3 pr3 bb b--black-20">}}
 | Type | How to Report | Phone |
 |---|---|---|
-| Abandon Vehicle  | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 |
 |  Graffiti | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 |
 |  Illegal Dumping | [311 Website](https://311.sanjoseca.gov) | 408-535-3500  |
 |  Overflowing Public Trash Can | [Parks Department Contact Form](https://www.sanjoseca.gov/Home/Components/FormBuilder/FormBuilder/1a53b42063784f9f9ece52f61bb30ab6/3037?fbclid=IwAR0AKO42bP9rh7X382Y_LpbSTicCSUZ9JLojzlFB4RhmDEj7MthrfF1qaIM) | 408-535-3500  |
 |  In a Public Park | [San Jose Parks Email](mailto:park.concerns@sanjoseca.gov) |  408-793-5510 |
 |  Streetlight Outage | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 | 
 |  Homeless Concerns |  [Homeless Concerns Email](mailto:homelessconcerns@sanjoseca.gov) | 408-975-1400  |
+|  Abandonded Vehicle  | [311 Website](https://311.sanjoseca.gov) |  408-535-3500 |
 |  Pothole | [311 Website](https://311.sanjoseca.gov) | 408-535-3500  |
 |  Near freeways, Highway & Ramps | [Caltrans Website](https://csr.dot.ca.gov/) |
 |  Light Rail (VTA) | [iOS](https://itunes.apple.com/us/app/vtalerts/id633600618?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.elerts.vta) |  |
