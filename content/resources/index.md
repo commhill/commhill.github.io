@@ -20,7 +20,7 @@ This page is intended to be a list of helpful links for Communications Hill resi
 Do you have junk (e.g. an old mattress, worn out car tires, a broken refrigerator, etc.) that you're trying to get rid of? Schedule an appointment with San Jose's [_free_ junk pickup service](https://www.sanjoseca.gov/your-government/environment/recycling-garbage/junk-pickup).
 
 # Report Issues
-A majority of issues can be reported using the [San Jose 311 website](https://www.sanjoseca.gov/residents/report-an-issue).
+A majority of issues can be reported using the [San Jose 311 website](https://311.sanjoseca.gov).
 
 San Jose 311 also has an iOS and Android app (see the links in the table below) that can be used to report issues. Below is a quick guide of what you can report on the 311 app and where to report various other issues that aren't handled by San Jose 311.
 
@@ -29,12 +29,12 @@ San Jose 311 also has an iOS and Android app (see the links in the table below) 
          td-class="pv3 pr3 bb b--black-20">}}
 | Type | How to Report | Phone |
 |---|---|---|
-| Abandon Vehicle  | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
-|  Graffiti | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
-|  Illegal Dumping | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) | 408-535-3500  |
+| Abandon Vehicle  | [Web](https://311.sanjoseca.gov) |  408-535-3500 |
+|  Graffiti | [Web](https://311.sanjoseca.gov) |  408-535-3500 |
+|  Illegal Dumping | [Web](https://311.sanjoseca.gov) | 408-535-3500  |
 |  Overflowing Public Trash Can | [Web](https://www.sanjoseca.gov/Home/Components/FormBuilder/FormBuilder/1a53b42063784f9f9ece52f61bb30ab6/3037?fbclid=IwAR0AKO42bP9rh7X382Y_LpbSTicCSUZ9JLojzlFB4RhmDEj7MthrfF1qaIM) | 408-535-3500  |
-|  Pothole | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) | 408-535-3500  |
-|  Streetlight Outage | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 | 
+|  Pothole | [Web](https://311.sanjoseca.gov) | 408-535-3500  |
+|  Streetlight Outage | [Web](https://311.sanjoseca.gov) |  408-535-3500 | 
 |  Homeless Concerns |  [Email](mailto:homelessconcerns@sanjoseca.gov) | 408-975-1400  |
 |  Along Train Tracks | [Email](mailto:rmcc_in@up.com) | 888-877-7267 |
 |  Near freeways, Highway & Ramps | [Web](https://csr.dot.ca.gov/) |
