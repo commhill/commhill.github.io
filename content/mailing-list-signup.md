@@ -3,7 +3,6 @@ title: Mailing List Signup
 omit_header_text: true
 description: Sign up for our mailing list
 type: page
-menu: main
 ---
 
 Sign up to receive emails for community updates and events related to Communications Hill. We'll try to send one email or less per month. If you are interested in sending a community event announcement or other message to this mailing list, please contact <info@commhill.org>.

@@ -1,7 +1,6 @@
 ---
 title: Construction Updates
 url: /construction-updates
-menu: main
 ---
 
 The Communications Hill area has several active construction projects. This page is intended to give an overview of all known ongoing projects nearby. The projects are listed in no particular order.

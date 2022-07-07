@@ -4,7 +4,7 @@ date: 2022-06-21T00:00:00-00:00
 ---
 
 The City of San Jose's Department of Transportation is hosting a virtual walk
-audit on June 29th, 2022 at 6pm. The meeting is designed to gather resident's
+audit on June 29th, 2022 at 6pm.<!--more--> The meeting is designed to gather resident's
 traffic safety concerns on Almaden Expressway between Lincoln Ave and Branham
 Ave.
 

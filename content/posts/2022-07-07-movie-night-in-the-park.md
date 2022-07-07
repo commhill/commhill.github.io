@@ -3,7 +3,7 @@ title: "Family Movie Night and Resource Fair on July 15th, 2022"
 date: 2022-07-07T00:00:00-00:00
 ---
 
-Join us for an exciting Family Movie Night and Resource Fair in the park!
+Join us for an exciting Family Movie Night and Resource Fair in the park!<!--more-->
 
 When is it happening?
 =====================

@@ -1,7 +1,6 @@
 ---
 title: Resident Resources
 url: /resident-resources
-menu: main
 ---
 
 This page is intended to be a list of helpful links for Communications Hill residents. If you discover a missing, outdated, or incorrect link, please create [a new issue on GitHub](https://github.com/commhill/commhill-org/issues/new).
