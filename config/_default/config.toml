@@ -43,6 +43,9 @@ enableEmoji = true
   link = "/about"
 
 [params]
+  # website title for Open Graph and Twitter Card
+  title = "Communications Hill Neighborhood Association"
+
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "light"
 
