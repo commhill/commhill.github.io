@@ -51,7 +51,7 @@ enableEmoji = true
   defaultTheme = "light"
 
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/commhill/commhill-org"
+  gitRepo = "https://github.com/commhill/commhill.github.io"
 
   # date format
   dateFormat = "2006-01-02"
@@ -674,7 +674,7 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/commhill/commhill-org"
+        url = "https://github.com/commhill/commhill.github.io"
         title = "GitHub"
 
     [languages.en.params]
