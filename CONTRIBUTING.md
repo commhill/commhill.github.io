@@ -10,12 +10,15 @@ to ask questions.
 
 ## Developer Quickstart
 
-1. Fork the `commhill-org` repo as documented on [GitHub](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
-2. Clone the repo to your machine using the follwing command:
+1. Install and configure git-lfs.
+   - See [git-lfs.github.com](https://git-lfs.github.com) for instructions.
+   - For mac: `$ brew install git-lfs` and `$ git lfs install`
+2. Fork the `commhill-org` repo as documented on [GitHub](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
+3. Clone the repo to your machine using the follwing command:
    - `$ git clone <forked-repo> --recurse-submodules`
    - If you already cloned, but forgot submodules, run `$ git submodule update --init --recursive`.
-3. Install [Hugo](https://gohugo.io/getting-started/installing/) for your specific operating system.
-4. Run locally:
+4. Install [Hugo](https://gohugo.io/getting-started/installing/) for your specific operating system.
+5. Run locally:
    - `$ hugo server -D`
 
 ## Deployment
