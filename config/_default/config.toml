@@ -628,17 +628,17 @@ enableEmoji = true
         identifier = "about"
         pre = ""
         post = ""
-        name = "About"
+        name = "Join Us"
         url = "/about/"
         title = ""
 
       [[languages.en.menu.main]]
         weight = 2
-        identifier = "posts"
+        identifier = "mailing-list"
         pre = ""
         post = ""
-        name = "Posts"
-        url = "/posts/"
+        name = "Mailing List"
+        url = "/mailing-list-signup"
         title = ""
 
       [[languages.en.menu.main]]
@@ -652,11 +652,11 @@ enableEmoji = true
 
       [[languages.en.menu.main]]
         weight = 4
-        identifier = "mailing-list"
+        identifier = "posts"
         pre = ""
         post = ""
-        name = "Mailing List"
-        url = "/mailing-list-signup"
+        name = "Posts"
+        url = "/posts/"
         title = ""
 
       [[languages.en.menu.main]]
