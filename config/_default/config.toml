@@ -22,9 +22,6 @@ hasCJKLanguage = false
 # default amount of posts in each pages
 paginate = 12
 
-# google analytics code [UA-XXXXXXXX-X]
-googleAnalytics = "UA-132850368-1"
-
 # copyright description used only for seo schema
 copyright = ""
 
@@ -49,6 +46,9 @@ enableEmoji = true
 
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "light"
+
+  # google analytics GA4
+  googleAnalyticsGA4 = "G-VB5TY85HGK"
 
   # public git repo url only then enableGitInfo is true
   gitRepo = "https://github.com/commhill/commhill.github.io"
