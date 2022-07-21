@@ -10,6 +10,6 @@ We hope to create a unified voice within our large community and celebrate toget
 **Do you live on or near Communications Hill? Join us today!**
 
 * [Click here to join our Facebook Group](https://www.facebook.com/groups/communicationshill)
-* [Click here to join our Discord Chat](https://discord.gg/jM4GNEH5)
+* [Click here to join our Discord Chat](https://discord.gg/dTrAdFYZzp)
 
 We are still in the early stages of forming our organization and can use your help.
