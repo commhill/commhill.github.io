@@ -670,6 +670,15 @@ enableEmoji = true
 
       [[languages.en.menu.main]]
         weight = 6
+        identifier = "facebook"
+        pre = "<i class='fab fa-facebook fa-fw' aria-hidden='true'></i>"
+        post = ""
+        name = ""
+        url = "https://www.facebook.com/groups/communicationshill"
+        title = "Facebook"
+
+      [[languages.en.menu.main]]
+        weight = 7
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
