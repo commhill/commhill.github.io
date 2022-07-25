@@ -5,6 +5,8 @@ Welcome to the Communications Hill [Neighborhood Association](https://en.wikiped
 
 We hope to create a unified voice within our large community and celebrate together with events throughout the year.
 
+We are NOT a homeowners association. We do not impose rules or restrictions, but we do meet regularly to come up with ways to improve life in our neighborhood.
+
 **Do you live on or near Communications Hill? Join us today!**
 
 * [Click here to join our Facebook Group](https://www.facebook.com/groups/communicationshill)
