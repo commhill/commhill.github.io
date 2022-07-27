@@ -7,7 +7,7 @@ the issue has been created, a volunteer will review it and act accordingly.
 
 ## Developer Quickstart
 
-1. Fork the `commhill-org` repo as documented on [GitHub](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
+1. Fork the `commhill/commhill.github.io` repo as documented on [GitHub](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 2. Clone the repo to your machine using the follwing command:
    - `$ git clone <forked-repo> --recurse-submodules`
    - If you already cloned, but forgot submodules, run `$ git submodule update --init --recursive`.
@@ -17,4 +17,12 @@ the issue has been created, a volunteer will review it and act accordingly.
 
 ## Deployment
 
-Deployment to https://www.commhill.org is automated. Everything committed to the master branch will be deployed by Github Actions to an Azure storage container which is then served out via Cloudflare's CDN.
+Deployment to https://www.commhill.org is automated. Everything committed to the
+main branch will be deployed by Github Actions to Github Pages (the gh-pages
+branch in this repo). Github Pages then sits behind Cloudflare.
+
+Cloudflare is used for caching (especially for PDFs), various page redirects
+(e.g. https://commhill.org/chat), and DNS (registration and hosting).
+
+PDFs (https://static-www.commhill.org) are currently hosted on an Azure storage
+container maintained by Jon. For discussion on this, please [see this issue](https://github.com/commhill/commhill.github.io/issues/1).
