@@ -10,7 +10,7 @@ We are NOT a homeowners association. We do not impose rules or restrictions, but
 **Do you live on or near Communications Hill? Join us today!**
 
 * [Click here to join our Facebook Group](https://www.facebook.com/groups/communicationshill)
-* [Click here to join our Discord Chat](https://discord.gg/dTrAdFYZzp)
+* [Click here to join our Slack Chat](https://www.commhill.org/slack)
 
 We are still in the early stages of forming our organization and can use your help.
 
