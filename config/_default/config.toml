@@ -634,57 +634,57 @@ enableEmoji = true
 
       [[languages.en.menu.main]]
         weight = 2
-        identifier = "mailing-list"
-        pre = ""
-        post = ""
-        name = "Mailing List"
-        url = "/mailing-list-signup"
-        title = ""
-
-      [[languages.en.menu.main]]
-        weight = 3
-        identifier = "construction-updates"
-        pre = ""
-        post = ""
-        name = "Construction Updates"
-        url = "/construction-updates"
-        title = ""
-
-      [[languages.en.menu.main]]
-        weight = 4
         identifier = "posts"
         pre = ""
         post = ""
-        name = "Posts"
+        name = "News"
         url = "/posts/"
         title = ""
 
       [[languages.en.menu.main]]
-        weight = 5
+        weight = 3
         identifier = "resident-resources"
         pre = ""
         post = ""
-        name = "Resident Resources"
+        name = "Resources"
         url = "/resident-resources"
         title = ""
 
       [[languages.en.menu.main]]
+        weight = 4
+        identifier = "construction-updates"
+        pre = ""
+        post = ""
+        name = "Construction Status"
+        url = "/construction-updates"
+        title = ""
+
+      [[languages.en.menu.main]]
+        weight = 5
+        identifier = "mailing-list"
+        pre = "<i class='fa fa-envelope fa-fw' aria-hidden='true'></i>"
+        post = ""
+        name = ""
+        url = "/mailing-list-signup"
+        title = ""
+
+      [[languages.en.menu.main]]
         weight = 6
+        identifier = "slack"
+        pre = "<i class='fab fa-slack fa-fw' aria-hidden='true'></i>"
+        post = ""
+        name = ""
+        url = "https://www.commhill.com/chat"
+        title = "Chat on Slack"
+
+      [[languages.en.menu.main]]
+        weight = 7
         identifier = "facebook"
         pre = "<i class='fab fa-facebook fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
         url = "https://www.facebook.com/groups/communicationshill"
         title = "Facebook"
-
-      [[languages.en.menu.main]]
-        weight = 7
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/commhill/commhill.github.io"
-        title = "GitHub"
 
     [languages.en.params]
       [languages.en.params.search]
