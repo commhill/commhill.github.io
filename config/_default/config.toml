@@ -674,7 +674,7 @@ enableEmoji = true
         pre = "<i class='fab fa-slack fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://www.commhill.com/chat"
+        url = "https://www.commhill.org/chat"
         title = "Chat on Slack"
 
       [[languages.en.menu.main]]
